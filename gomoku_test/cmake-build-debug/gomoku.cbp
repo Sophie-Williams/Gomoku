@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="gomoku"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gomoku">
+				<Option output="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/gomoku" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DDEBUG"/>
+					<Add directory="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/include"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 gomoku"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gomoku/fast">
+				<Option output="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/gomoku" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DDEBUG"/>
+					<Add directory="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/include"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 gomoku/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/include/AIPlayer.hpp">
+			<Option target="gomoku"/>
+		</Unit>
+		<Unit filename="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/include/BasePlayer.hpp">
+			<Option target="gomoku"/>
+		</Unit>
+		<Unit filename="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/include/Exception/GomokuException.hpp">
+			<Option target="gomoku"/>
+		</Unit>
+		<Unit filename="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/include/Exception/MinMaxException.hpp">
+			<Option target="gomoku"/>
+		</Unit>
+		<Unit filename="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/include/Gameboard.hpp">
+			<Option target="gomoku"/>
+		</Unit>
+		<Unit filename="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/include/Gomoku.hpp">
+			<Option target="gomoku"/>
+		</Unit>
+		<Unit filename="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/include/HumanPlayer.hpp">
+			<Option target="gomoku"/>
+		</Unit>
+		<Unit filename="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/include/MinMax/MinMax.hpp">
+			<Option target="gomoku"/>
+		</Unit>
+		<Unit filename="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/include/PlayerSymbol.hpp">
+			<Option target="gomoku"/>
+		</Unit>
+		<Unit filename="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/src/BasePlayer.cpp">
+			<Option target="gomoku"/>
+		</Unit>
+		<Unit filename="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/src/Gameboard.cpp">
+			<Option target="gomoku"/>
+		</Unit>
+		<Unit filename="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/src/Gomoku.cpp">
+			<Option target="gomoku"/>
+		</Unit>
+		<Unit filename="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/src/HumanPlayer.cpp">
+			<Option target="gomoku"/>
+		</Unit>
+		<Unit filename="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/src/MinMax/MinMax.cpp">
+			<Option target="gomoku"/>
+		</Unit>
+		<Unit filename="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/src/MinMax/Valuator.cpp">
+			<Option target="gomoku"/>
+		</Unit>
+		<Unit filename="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/src/main.cpp">
+			<Option target="gomoku"/>
+		</Unit>
+		<Unit filename="/home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

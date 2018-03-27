@@ -1,0 +1,1 @@
+/usr/bin/c++   -g3 -g -Wall -Werror -DDEBUG -g3   CMakeFiles/gomoku.dir/src/BasePlayer.cpp.o CMakeFiles/gomoku.dir/src/Gameboard.cpp.o CMakeFiles/gomoku.dir/src/Gomoku.cpp.o CMakeFiles/gomoku.dir/src/HumanPlayer.cpp.o CMakeFiles/gomoku.dir/src/MinMax/MinMax.cpp.o CMakeFiles/gomoku.dir/src/MinMax/Valuator.cpp.o CMakeFiles/gomoku.dir/src/main.cpp.o  -o gomoku -static 

@@ -1,0 +1,4 @@
+/home/bruel_a/Téléchargements/clion-2017.2.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/bruel_a/rendu/B5/B5-ArtificialIntelligence/gomoku/gomoku_test/cmake-build-debug
