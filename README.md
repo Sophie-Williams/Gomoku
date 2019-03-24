@@ -5,14 +5,15 @@
 _______
 
 Realization of a IA for Gomoku game.
+
 C++ implementation of a Gomoku game software including a two-player mode and a solo mode (where opponent is an AI).
 This module focus on the AI algoritm (Min-Max, Monte-Carlo or derived) and its heuristic, as well as knowledge representation and structure optimization.
 
 ## Prerequisites
 
 You muse have those on your laptop :
-    * cmake
-    * MinGW
+* cmake
+* MinGW
 
 ## Compile
 
