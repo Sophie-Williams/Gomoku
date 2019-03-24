@@ -1,18 +1,20 @@
-Gomoku
+# Gomoku
 
-Realization of a IA for Gomoku game in c++.
+*Project for learnings purpose during the Epitech student years.*
 
-_____________________
+_______
 
-Prerequisites
+Realization of a IA for Gomoku game.
+C++ implementation of a Gomoku game software including a two-player mode and a solo mode (where opponent is an AI).
+This module focus on the AI algoritm (Min-Max, Monte-Carlo or derived) and its heuristic, as well as knowledge representation and structure optimization.
+
+## Prerequisites
 
 You muse have those on your laptop :
     * cmake
     * MinGW
 
-____________________
-
-Compile
+## Compile
 
 You must use to 'cmake' command to compile the project.
 The project compile with MinGW, so be careful when you compile the project.
@@ -21,10 +23,10 @@ Th executable is in the root directory of the git project.
 
 You can olso compile the project with a IDE like CLion in MinGW configuration.
 
-___________________
-
-Run
+## Run
 
 You must run the .exe on piskvork software
 
-___________________
+_______
+
+**Warning: Old stuff built in the early students years.**
